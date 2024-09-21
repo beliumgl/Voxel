@@ -12,3 +12,5 @@ Some information in this repository is outdated, so the application's functional
 UPD: New API key was found (91oqTae3OFnVmHllC195eiEo7pYsUgj3rcsaAiFkHmDpsmQAgacSVPhelNw1)
 
 You can change old API key to new by changing `def_params` variable
+
+UPD: API key has been changed! I'll try to get a new key as fast as possible.
