@@ -7,10 +7,5 @@ The source code already have all required nuget packages and binaries.
 This should compile out of the box.
 
 # Warning!
-Some information in this repository is outdated, so the application's functionality may break.
+The project has implemented numerous security updates in the backend, including the use of a byte file containing the API key: 80ff0a001e7fc8. The API key is transmitted using the field name KfjN9WrjqimX in a file with the content type application/octet-stream.
 
-UPD: New API key was found (91oqTae3OFnVmHllC195eiEo7pYsUgj3rcsaAiFkHmDpsmQAgacSVPhelNw1)
-
-You can change old API key to new by changing `def_params` variable
-
-UPD: API key has been changed! I'll try to get a new key as fast as possible.
